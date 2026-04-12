@@ -1,0 +1,302 @@
+Implementation_Phase,Code,Name,Zone,Total_Routes,Priority_Score,Lat,Lng
+Phase 1 (High Priority),BX41,Bến xe An Sương,Quận 12,10,117.5,10.843737602233888,106.61337280273438
+Phase 1 (High Priority),BX14,Bến xe buýt Chợ Lớn,Quận 5,10,117.5,10.751253,106.652565
+Phase 2 (Medium Priority),QBT 007,Bệnh viện Triều An,Quận Bình Tân,6,92.5,10.739665,106.61687
+Phase 2 (Medium Priority),QBT 003,Hàng Dương,Quận Bình Tân,5,86.25,10.72832,106.607605
+Phase 2 (Medium Priority),HHM 058,Bến xe An Sương,Huyện Hóc Môn,5,86.25,10.845187,106.613522
+Phase 2 (Medium Priority),QBT 005,Lâm Thành,Quận Bình Tân,5,86.25,10.734278,106.61298
+Phase 2 (Medium Priority),QBTH 122,Đài Liệt sĩ,Quận Bình Thạnh,4,80.0,10.808831,106.711965
+Phase 2 (Medium Priority),Q12 128,Cầu Tham Lương - Siêu thị Thiên Hòa,Quận 12,4,80.0,10.826957,106.625828
+Phase 2 (Medium Priority),BX84,Bến xe buýt Chợ Lớn - B,Quận 6,4,80.0,10.751185,106.65107
+Phase 2 (Medium Priority),QBTH 123,Ngã Ba Hàng Xanh,Quận Bình Thạnh,4,80.0,10.803262,106.711509
+Phase 2 (Medium Priority),BX37,Bến xe Ngã tư Ga,Quận 12,4,80.0,10.862156867980955,106.67835998535156
+Phase 2 (Medium Priority),QBT 156,Phòng Y học ,Quận Bình Tân,3,73.75,10.75664,106.58987
+Phase 2 (Medium Priority),QTD 070,Ngã ba Chương Dương,TP. Thủ Đức - KV3,3,73.75,10.850419,106.760931
+Phase 2 (Medium Priority),Q2 059,Lê Văn Thịnh,TP. Thủ Đức - KV1,3,73.75,10.788639,106.770764
+Phase 2 (Medium Priority),QBTH 055,Khu Du lịch Văn Thánh,Quận Bình Thạnh,3,73.75,10.800274,106.717227
+Phase 2 (Medium Priority),Q9 107,Trạm y tế Phường Hiệp Phú,TP. Thủ Đức - KV2,3,73.75,10.844381,106.781723
+Phase 2 (Medium Priority),QBT 010,Kinh Dương Vương,Quận Bình Tân,3,73.75,10.744919,106.623162
+Phase 2 (Medium Priority),Q12 132,Chùa Lạc Quang,Quận 12,3,73.75,10.834781,106.620614
+Phase 2 (Medium Priority),QTB 075,Mũi tàu Cộng Hòa,Quận Tân Bình,3,73.75,10.808314,106.634638
+Phase 2 (Medium Priority),QBTH 040,Ngã Tư Chu Văn An,Quận Bình Thạnh,3,73.75,10.809759,106.709143
+Phase 2 (Medium Priority),Q6 041,Trường Nguyễn Đức Cảnh,Quận 6,3,73.75,10.754021,106.643761
+Phase 2 (Medium Priority),Q2 056,Trường Nguyễn Văn Trỗi,TP. Thủ Đức - KV1,3,73.75,10.788671,106.777557
+Phase 2 (Medium Priority),QTD 073,Trường ĐHSP Kỹ Thuật,TP. Thủ Đức - KV3,3,73.75,10.849597,106.771917
+Phase 2 (Medium Priority),HBC 364,Dương Đình Cúc,Huyện Bình Chánh,3,73.75,10.70706,106.598089
+Phase 3 (Lower Priority),Q8 074,Cầu Nhị Thiên Đường,Quận 8,2,67.5,10.738769,106.656427
+Phase 3 (Lower Priority),BX 32,Chợ Phước Bình,TP. Thủ Đức - KV2,2,67.5,10.812699,106.770912
+Phase 3 (Lower Priority),QTP 078,Trạm Đường Số 27,Quận Tân Phú,2,67.5,10.802817,106.628487
+Phase 3 (Lower Priority),Q12 110,Cây xăng Thạnh Xuân,Quận 12,2,67.5,10.861577,106.671882
+Phase 3 (Lower Priority),Q2 061,Nhà thiếu nhi Quận 2,TP. Thủ Đức - KV1,2,67.5,10.787904,106.761909
+Phase 3 (Lower Priority),BX 88,Tân Túc,Huyện Bình Chánh,2,67.5,10.684682,106.551528
+Phase 3 (Lower Priority),QTD 046,Chùa Vạn Hạnh,TP. Thủ Đức - KV3,2,67.5,10.864554,106.741839
+Phase 3 (Lower Priority),QTP 063,Trạm Bờ Bao Tân Thắng,Quận Tân Phú,2,67.5,10.807464,106.622177
+Phase 3 (Lower Priority),HBC 410,Cầu Chợ Đệm,Huyện Bình Chánh,2,67.5,10.693112,106.580885
+Phase 3 (Lower Priority),QTB 055,Ngã ba Bành Văn Trân,Quận Tân Bình,2,67.5,10.788692,106.661453
+Phase 3 (Lower Priority),QTB 066,Cây xăng Đôi,Quận Tân Bình,2,67.5,10.794256,106.652184
+Phase 3 (Lower Priority),HBC 280,Võ Văn Vân,Huyện Bình Chánh,2,67.5,10.763386,106.566911
+Phase 3 (Lower Priority),Q9 010,UBND Phường Phước Long B,TP. Thủ Đức - KV2,2,67.5,10.826657,106.768768
+Phase 3 (Lower Priority),QBT 160,Lê Đình Cẩn,Quận Bình Tân,2,67.5,10.758005,106.60694
+Phase 3 (Lower Priority),Q9 082,Ngã tư Samsung,TP. Thủ Đức - KV2,2,67.5,10.831325,106.803707
+Phase 3 (Lower Priority),Q9 105,Chợ Tăng Nhơn Phú A,TP. Thủ Đức - KV2,2,67.5,10.844923,106.788209
+Phase 3 (Lower Priority),HBC 302,Trường Trung học cơ sở Lê Minh Xuân,Huyện Bình Chánh,2,67.5,10.766068,106.56057
+Phase 3 (Lower Priority),Q11 046,Bãi xe buýt Đầm Sen,Quận 11,2,67.5,10.767929,106.639776
+Phase 3 (Lower Priority),HBC 370,Bùi Thanh Khiết,Huyện Bình Chánh,2,67.5,10.673877,106.580247
+Phase 3 (Lower Priority),QGV 053,Trường Văn Thư lưu trữ,Quận Gò Vấp,2,67.5,10.837015,106.680894
+Phase 3 (Lower Priority),Q1 032,Nguyễn Hữu Cảnh,Quận 1,2,67.5,10.78328,106.707222
+Phase 3 (Lower Priority),Q9 136,phim trường,TP. Thủ Đức - KV2,2,67.5,10.81146,106.846359
+Phase 3 (Lower Priority),Q2 075,Cát Lái,TP. Thủ Đức - KV1,2,67.5,10.802925,106.747948
+Phase 3 (Lower Priority),Q9 081,Dốc xóm Bến,TP. Thủ Đức - KV2,2,67.5,10.836525,106.799362
+Phase 3 (Lower Priority),QTD 082,Ngã 4 Tây Hòa (RMK),TP. Thủ Đức - KV3,2,67.5,10.825366,106.759998
+Phase 3 (Lower Priority),QTPT220,Đình Hòa Thạnh,Quận Tân Phú,2,67.5,10.777061,106.634159
+Phase 3 (Lower Priority),QGV 002,Vincom Plaza,Quận Gò Vấp,2,67.5,10.827184,106.688409
+Phase 3 (Lower Priority),BX26,Hẻm 813 Long Phước,TP. Thủ Đức - KV2,2,67.5,10.789044,106.860107
+Phase 3 (Lower Priority),Q4 031,Cảng Sài Gòn,Quận 4,2,67.5,10.758443,106.7155
+Phase 3 (Lower Priority),Q1 089,Bệnh viện Từ Dũ,Quận 1,2,67.5,10.768709,106.685024
+Phase 3 (Lower Priority),QBT 153,Phòng khám Đa khoa Thành An,Quận Bình Tân,2,67.5,10.759117,106.577055
+Phase 3 (Lower Priority),Q4 027,Bưu Điện Quận 4,Quận 4,2,67.5,10.76385,106.70763
+Phase 3 (Lower Priority),HBC 382,Trịnh Như Khuê,Huyện Bình Chánh,2,67.5,10.670197,106.576663
+Phase 3 (Lower Priority),Q1 024,Bến Bạch Đằng,Quận 1,2,67.5,10.774094,106.706654
+Phase 3 (Lower Priority),Q3 006,Võ Văn Tần,Quận 3,2,67.5,10.774068,106.688946
+Phase 3 (Lower Priority),BX 10,Đường A1 (Phà Cát Lái),TP. Thủ Đức - KV1,2,67.5,10.762,106.782669
+Phase 3 (Lower Priority),Q5 012,Rạp Đại Quang,Quận 5,2,67.5,10.752566,106.658937
+Phase 3 (Lower Priority),Q9 127,Ngã ba Long Phước,TP. Thủ Đức - KV2,2,67.5,10.811961,106.859035
+Phase 3 (Lower Priority),QTD 052,Chợ Thủ Đức,TP. Thủ Đức - KV3,2,67.5,10.851198,106.75428
+Phase 3 (Lower Priority),BX44,Bến xe Miền Đông,Quận Bình Thạnh,2,67.5,10.814733,106.711294
+Phase 3 (Lower Priority),Q10 062,Ngân hàng Quân Đội,Quận 10,2,67.5,10.775531,106.662819
+Phase 3 (Lower Priority),Q6 044,Vòng xoay Phú Lâm,Quận 6,2,67.5,10.753346,106.633365
+Phase 3 (Lower Priority),BX 74,Trường Trung học Phổ thông Hiệp Bình,TP. Thủ Đức - KV3,2,67.5,10.84741,106.721474
+Phase 3 (Lower Priority),QTD 018,Ngã Ba Tam Hà - Tô Ngọc Vân,TP. Thủ Đức - KV3,2,67.5,10.860263,106.747826
+Phase 3 (Lower Priority),Q9 242,Ngã 3 Nghêu sò,TP. Thủ Đức - KV2,2,67.5,10.845685,106.798767
+Phase 3 (Lower Priority),QTD 146,Trạm Cầu ngang,TP. Thủ Đức - KV3,2,67.5,10.847199,106.751587
+Phase 3 (Lower Priority),QTP 144,Ngã 4 Hòa Bình,Quận Tân Phú,2,67.5,10.77001,106.632839
+Phase 3 (Lower Priority),Q12 108,Cầu Bến Cát,Quận 12,2,67.5,10.861335,106.662247
+Phase 3 (Lower Priority),QTD 063,Tu viện Quảng Đức,TP. Thủ Đức - KV3,2,67.5,10.839349,106.766338
+Phase 3 (Lower Priority),BX27,Chợ Long Phước,TP. Thủ Đức - KV2,2,67.5,10.808298,106.85936
+Phase 3 (Lower Priority),BX 71,Cầu Kênh Lộ,Huyện Nhà Bè,2,67.5,10.598307,106.742727
+Phase 3 (Lower Priority),Q1 080,Lý Tự Trọng,Quận 1,2,67.5,10.777089,106.699657
+Phase 3 (Lower Priority),BX 57,Chợ Bình Chánh,Huyện Bình Chánh,2,67.5,10.665484,106.571535
+Phase 3 (Lower Priority),BX73,Đại học Nông Lâm,TP. Thủ Đức - KV3,2,67.5,10.868183135986328,106.78744506835938
+Phase 3 (Lower Priority),HBC 365,Nguyễn Hữu Trí,Huyện Bình Chánh,2,67.5,10.696112,106.596415
+Phase 3 (Lower Priority),HBC 460,Bùi Thanh Khiết,Huyện Bình Chánh,2,67.5,10.691889,106.57558
+Phase 3 (Lower Priority),Q9 060,Nghĩa trang liệt sĩ Tp.HCM,TP. Thủ Đức - KV2,2,67.5,10.871408,106.809345
+Phase 3 (Lower Priority),HBC 452,Trạm thu phí Chợ Bình Điền,Huyện Bình Chánh,2,67.5,10.698405,106.609359
+Phase 3 (Lower Priority),HBC 181,Trịnh Quang Nghị,Huyện Bình Chánh,1,61.25,10.692511,106.654946
+Phase 3 (Lower Priority),Q5 002,Chợ Bầu Sen,Quận 5,1,61.25,10.759407,106.678764
+Phase 3 (Lower Priority),Q7 014,Mầm non Ban Mai,Quận 7,1,61.25,10.722836,106.735412
+Phase 3 (Lower Priority),QBT 181,Đường số 5B,Quận Bình Tân,1,61.25,10.729081,106.583261
+Phase 3 (Lower Priority),QBTH 063,Cầu Điện Biên Phủ,Quận Bình Thạnh,1,61.25,10.795115,106.702518
+Phase 3 (Lower Priority),QBT 256,Bệnh viện Đa khoa Bình Tân,Quận Bình Tân,1,61.25,10.776023,106.613216
+Phase 3 (Lower Priority),QBT 157,Ngã 4 Bà Hom,Quận Bình Tân,1,61.25,10.755692,106.594656
+Phase 3 (Lower Priority),HHM 037,Công ty thoát nước đô thị,Huyện Hóc Môn,1,61.25,10.911664,106.567812
+Phase 3 (Lower Priority),HNB 019,Ủy ban xã Phú Xuân,Huyện Nhà Bè,1,61.25,10.678115,106.754354
+Phase 3 (Lower Priority),HBC 356,Trạm xăng Lai Lai,Huyện Bình Chánh,1,61.25,10.707935,106.580724
+Phase 3 (Lower Priority),QPN 049,Trung tâm văn hóa Quận Phú Nhuận,Quận Phú Nhuận,1,61.25,10.795421,106.676093
+Phase 3 (Lower Priority),Q4 038,Trường Chính trị Quận 4,Quận 4,1,61.25,10.759444,106.700168
+Phase 3 (Lower Priority),HCC 011,Trường Mầm non Tân Thông Hội 1,Huyện Củ Chi,1,61.25,10.952821,106.516228
+Phase 3 (Lower Priority),Q10 068,Nhà thờ Đồng Tiến,Quận 10,1,61.25,10.770474,106.665863
+Phase 3 (Lower Priority),HHM 028,Ngã tư Giếng Nước,Huyện Hóc Môn,1,61.25,10.877482,106.591748
+Phase 3 (Lower Priority),Q7 101,Cầu Lý Phục Man,Quận 7,1,61.25,10.742031,106.721862
+Phase 3 (Lower Priority),HBC 317,Trầm lầy 1,Huyện Bình Chánh,1,61.25,10.750131,106.477776
+Phase 3 (Lower Priority),HBC 130,Công ty Đại Vĩnh Lợi,Huyện Bình Chánh,1,61.25,10.752703,106.54261
+Phase 3 (Lower Priority),HHM 032,Ngã ba Lam Sơn,Huyện Hóc Môn,1,61.25,10.893147,106.580742
+Phase 3 (Lower Priority),QTD 133,Phòng khám đa khoa Á Châu,TP. Thủ Đức - KV3,1,61.25,10.858411,106.758603
+Phase 3 (Lower Priority),Q3 048,Viện Pasteur,Quận 3,1,61.25,10.785577,106.688683
+Phase 3 (Lower Priority),HBC 122,Cầu Sập,Huyện Bình Chánh,1,61.25,10.768487,106.550608
+Phase 3 (Lower Priority),Q1 132,Tổng Cty Samco,Quận 1,1,61.25,10.759734,106.688254
+Phase 3 (Lower Priority),QBT 066,Trạm cân số 1,Quận Bình Tân,1,61.25,10.804131,106.598716
+Phase 3 (Lower Priority),HHM 038,Cầu An Hạ,Huyện Hóc Môn,1,61.25,10.916901,106.564102
+Phase 3 (Lower Priority),HHM 024,Ngã 3 Củ Cải,Huyện Hóc Môn,1,61.25,10.862014,106.602697
+Phase 3 (Lower Priority),QBT 172,Trạm y tế phường Tân Tạo,Quận Bình Tân,1,61.25,10.755644,106.586604
+Phase 3 (Lower Priority),Q12 004,UBND Phường Thới An,Quận 12,1,61.25,10.875195,106.649185
+Phase 3 (Lower Priority),QTB 070,Ngã ba Bình Giã,Quận Tân Bình,1,61.25,10.797792,106.644453
+Phase 3 (Lower Priority),QBTH 028,Cư xá Thanh Đa,Quận Bình Thạnh,1,61.25,10.821391,106.728484
+Phase 3 (Lower Priority),HBC 023,đường Ấp 2,Huyện Bình Chánh,1,61.25,10.69152,106.602321
+Phase 3 (Lower Priority),QGV 026,Nhà Thờ Hà Nội,Quận Gò Vấp,1,61.25,10.851082,106.665106
+Phase 3 (Lower Priority),QBTH 160,Cầu Rạch Lăng,Quận Bình Thạnh,1,61.25,10.816319,106.700592
+Phase 3 (Lower Priority),Q1 115,Mạc Đỉnh Chi,Quận 1,1,61.25,10.786848,106.697861
+Phase 3 (Lower Priority),Q2 032,Khu Dân Cư Phố Đông,TP. Thủ Đức - KV1,1,61.25,10.767412,106.778081
+Phase 3 (Lower Priority),QGV 123,Bệnh Viện 175,Quận Gò Vấp,1,61.25,10.820044,106.678727
+Phase 3 (Lower Priority),QTB 160,Công ty Satsco,Quận Tân Bình,1,61.25,10.814137,106.666346
+Phase 3 (Lower Priority),QBT 081,Thiên Phúc Học,Quận Bình Tân,1,61.25,10.781952,106.593697
+Phase 3 (Lower Priority),QTB 125,Siêu thị Maximart Cộng Hòa,Quận Tân Bình,1,61.25,10.800833,106.658819
+Phase 3 (Lower Priority),Q7 035,Cầu Phú Mỹ,Quận 7,1,61.25,10.736639,106.730681
+Phase 3 (Lower Priority),HBC 222,Công an Bình Hưng,Huyện Bình Chánh,1,61.25,10.730905,106.656105
+Phase 3 (Lower Priority),HCC 040,xóm Huế,Huyện Củ Chi,1,61.25,10.963449,106.49735
+Phase 3 (Lower Priority),Q9 175,Trường Hoa Hồng Đỏ,TP. Thủ Đức - KV2,1,61.25,10.791008,106.794258
+Phase 3 (Lower Priority),HNB 056,Giáo xứ Tin Mừng,Huyện Nhà Bè,1,61.25,10.622401,106.737939
+Phase 3 (Lower Priority),HBC 234,Trạm y tế xã Hưng Long,Huyện Bình Chánh,1,61.25,10.654008,106.616789
+Phase 3 (Lower Priority),Q9 030,Đại lộ 2,TP. Thủ Đức - KV2,1,61.25,10.818379,106.773269
+Phase 3 (Lower Priority),Q9 120,Trường Mầm non,TP. Thủ Đức - KV2,1,61.25,10.826093,106.816083
+Phase 3 (Lower Priority),QBTH 014,Chung cư Thanh Đa,Quận Bình Thạnh,1,61.25,10.817109,106.720762
+Phase 3 (Lower Priority),Q12 078,Cao su Vina,Quận 12,1,61.25,10.861767,106.648536
+Phase 3 (Lower Priority),QTD 184,Trung tâm kho vận Linh Xuân,TP. Thủ Đức - KV3,1,61.25,10.870254,106.774932
+Phase 3 (Lower Priority),QTP 108,Café Suối Reo,Quận Tân Phú,1,61.25,10.790343,106.628273
+Phase 3 (Lower Priority),HBC 244,Chùa Liên Hoa,Huyện Bình Chánh,1,61.25,10.656206,106.586035
+Phase 3 (Lower Priority),HCC 052,Chợ chiều Tân Phú Trung,Huyện Củ Chi,1,61.25,10.931917,106.552808
+Phase 3 (Lower Priority),Q9 141,Chung Cư C3,TP. Thủ Đức - KV2,1,61.25,10.853095,106.791115
+Phase 3 (Lower Priority),HNB 023,Ngân hàng Agribank,Huyện Nhà Bè,1,61.25,10.687393,106.743202
+Phase 3 (Lower Priority),Q9 164,Trạm y tế,TP. Thủ Đức - KV2,1,61.25,10.809566,106.830009
+Phase 3 (Lower Priority),QTP 100,Trạm café Minh Thùy,Quận Tân Phú,1,61.25,10.792765,106.620628
+Phase 3 (Lower Priority),Q2 013,Đình Bình Khánh,TP. Thủ Đức - KV1,1,61.25,10.78709,106.73295
+Phase 3 (Lower Priority),HBC 367,An Phú Tây,Huyện Bình Chánh,1,61.25,10.687614,106.593717
+Phase 3 (Lower Priority),HBC 260,Tân Liễu,Huyện Bình Chánh,1,61.25,10.645615,106.632668
+Phase 3 (Lower Priority),QGV 185,Ngã Ba Nguyên Hồng,Quận Gò Vấp,1,61.25,10.817294,106.689
+Phase 3 (Lower Priority),HBC 214,Xăng dầu Phong Phú,Huyện Bình Chánh,1,61.25,10.704709,106.654957
+Phase 3 (Lower Priority),Q10 029,Chợ Phường 10,Quận 10,1,61.25,10.767865,106.673051
+Phase 3 (Lower Priority),QBT 263,Bệnh viện Bình Tân,Quận Bình Tân,1,61.25,10.763949,106.603798
+Phase 3 (Lower Priority),Q7 072,ĐH Tôn Đức Thắng,Quận 7,1,61.25,10.731416,106.700007
+Phase 3 (Lower Priority),Q7 092,Đại học RMIT,Quận 7,1,61.25,10.728839,106.695061
+Phase 3 (Lower Priority),Q12 031,Công viên Phần mềm Quang Trung,Quận 12,1,61.25,10.853248,106.625914
+Phase 3 (Lower Priority),QGV 130,Ngã ba Phạm Huy Thông,Quận Gò Vấp,1,61.25,10.833843,106.68466
+Phase 3 (Lower Priority),QTB 123,Pico Plaza,Quận Tân Bình,1,61.25,10.801254,106.653637
+Phase 3 (Lower Priority),QTB 050,Công ty Giấy Mai Lan,Quận Tân Bình,1,61.25,10.793972,106.638982
+Phase 3 (Lower Priority),LA_2,Hoàng Thái Mart,Huyện Bình Chánh,1,61.25,10.637843,106.658036
+Phase 3 (Lower Priority),HCC 047,Chùa Pháp Hạnh,Huyện Củ Chi,1,61.25,10.943678,106.530776
+Phase 3 (Lower Priority),Q11 050,Nhà thi đấu Phú Thọ,Quận 11,1,61.25,10.770645,106.656738
+Phase 3 (Lower Priority),QPN 043,Cây xăng Quân khu 7,Quận Phú Nhuận,1,61.25,10.799589,106.66847
+Phase 3 (Lower Priority),Q9 101,Công Ty FILIED,TP. Thủ Đức - KV2,1,61.25,10.848738,106.807355
+Phase 3 (Lower Priority),QGV 143,Câu lạc bộ Tenis,Quận Gò Vấp,1,61.25,10.846104,106.657076
+Phase 3 (Lower Priority),QBTH 084,Trường Trung học cơ sở Phú Mỹ,Quận Bình Thạnh,1,61.25,10.792433,106.712587
+Phase 3 (Lower Priority),QGV 158,UBND Quận Gò Vấp,Quận Gò Vấp,1,61.25,10.83103,106.669232
+Phase 3 (Lower Priority),HBC 075,Đường dẫn Cao tốc,Huyện Bình Chánh,1,61.25,10.684162,106.576781
+Phase 3 (Lower Priority),QBTH 023,Nhà hàng Hàn Quốc,Quận Bình Thạnh,1,61.25,10.829586,106.739441
+Phase 3 (Lower Priority),HBC 044,Công ty Phạm Nguyên,Huyện Bình Chánh,1,61.25,10.730926,106.575258
+Phase 3 (Lower Priority),Q2 039,Chợ Cây Xoài,TP. Thủ Đức - KV1,1,61.25,10.775828,106.767154
+Phase 3 (Lower Priority),HBC 299,Công ty Chấn Hưng,Huyện Bình Chánh,1,61.25,10.773462,106.545657
+Phase 3 (Lower Priority),HBC 322,Kênh 6,Huyện Bình Chánh,1,61.25,10.765689,106.498107
+Phase 3 (Lower Priority),QTP 023,Trạm Trường Tiểu Học Lê Lai,Quận Tân Phú,1,61.25,10.812798,106.622345
+Phase 3 (Lower Priority),QBT 022,Nguyễn Thị Tú,Quận Bình Tân,1,61.25,10.815718,106.602783
+Phase 3 (Lower Priority),Q10 090,Trường THPT Nguyễn Du,Quận 10,1,61.25,10.779224,106.662399
+Phase 3 (Lower Priority),QBT 090,Công ty Hai Thành,Quận Bình Tân,1,61.25,10.743526,106.597519
+Phase 3 (Lower Priority),Q7 023,Phạm Hữu Lầu,Quận 7,1,61.25,10.705547,106.737649
+Phase 3 (Lower Priority),QTD 041,Cây Xăng Bình Chiểu,TP. Thủ Đức - KV3,1,61.25,10.876154,106.731845
+Phase 3 (Lower Priority),QBT 238,Siêu thị,Quận Bình Tân,1,61.25,10.774311,106.61923
+Phase 3 (Lower Priority),HHM 019,Ngã tư Bà Điểm,Huyện Hóc Môn,1,61.25,10.832674,106.605804
+Phase 3 (Lower Priority),QBT 169,Chùa Bình An,Quận Bình Tân,1,61.25,10.744571,106.584072
+Phase 3 (Lower Priority),Q9 085,Trường cấp 3 Long Trường,TP. Thủ Đức - KV2,1,61.25,10.817091,106.810913
+Phase 3 (Lower Priority),QBT 063,Tân Kỳ Tân Quý,Quận Bình Tân,1,61.25,10.788855,106.595519
+Phase 3 (Lower Priority),Q11 015,Phú Thọ,Quận 11,1,61.25,10.762574,106.657881
+Phase 3 (Lower Priority),Q9 169,Trường Long Trường,TP. Thủ Đức - KV2,1,61.25,10.801476,106.811668
+Phase 3 (Lower Priority),HBC 224,Phạm Tấn Mười,Huyện Bình Chánh,1,61.25,10.636067,106.650649
+Phase 3 (Lower Priority),Q7 037,Trường Nguyễn Hữu Cảnh,Quận 7,1,61.25,10.742621,106.729796
+Phase 3 (Lower Priority),QGV 139,Ngã sáu Gò Vấp,Quận Gò Vấp,1,61.25,10.838475,106.674564
+Phase 3 (Lower Priority),HNB 099,Bình Xuyên 2,Huyện Nhà Bè,1,61.25,10.704076,106.713193
+Phase 3 (Lower Priority),HBC 211,Trạm xăng Kim Quang,Huyện Bình Chánh,1,61.25,10.695548,106.654978
+Phase 3 (Lower Priority),Q7 090,Sky Garden,Quận 7,1,61.25,10.729234,106.7049
+Phase 3 (Lower Priority),HBC 028,Kim Hằng,Huyện Bình Chánh,1,61.25,10.700144,106.631413
+Phase 3 (Lower Priority),QGV 060,Nhà thờ Nữ Vương Hòa Bình,Quận Gò Vấp,1,61.25,10.856419,106.654528
+Phase 3 (Lower Priority),QBT 167,nhà thờ Họ Trịnh,Quận Bình Tân,1,61.25,10.734889,106.581207
+Phase 3 (Lower Priority),HBC 309,Kênh 8,Huyện Bình Chánh,1,61.25,10.769778,106.503096
+Phase 3 (Lower Priority),HBC 252,Chợ Hưng Long,Huyện Bình Chánh,1,61.25,10.658847,106.606822
+Phase 3 (Lower Priority),Q9  122,Ngã 3 Lò Lu,TP. Thủ Đức - KV2,1,61.25,10.824618,106.808717
+Phase 3 (Lower Priority),QBT 259,Ngã 3 Lê Văn Quới,Quận Bình Tân,1,61.25,10.776324,106.602799
+Phase 3 (Lower Priority),HNB 003,Công an Thị trấn Nhà Bè,Huyện Nhà Bè,1,61.25,10.695869,106.739666
+Phase 3 (Lower Priority),HNB 051,Công ty may Đại Sơn,Huyện Nhà Bè,1,61.25,10.64717,106.731384
+Phase 3 (Lower Priority),Q9 263,Đường cầu xây,TP. Thủ Đức - KV2,1,61.25,10.854681,106.813675
+Phase 3 (Lower Priority),HBC 038,Sân bóng mi ni,Huyện Bình Chánh,1,61.25,10.727321,106.673234
+Phase 3 (Lower Priority),QTD 186,Công ty Nissan,TP. Thủ Đức - KV3,1,61.25,10.872419,106.768248
+Phase 3 (Lower Priority),Q9 212,Trạm xây dựng,TP. Thủ Đức - KV2,1,61.25,10.829955,106.76312
+Phase 3 (Lower Priority),QTD 160,Chợ Đầu Mối,TP. Thủ Đức - KV3,1,61.25,10.86831,106.730198
+Phase 3 (Lower Priority),Q11 057,Chợ Chim Xanh,Quận 11,1,61.25,10.766184,106.647903
+Phase 3 (Lower Priority),Q10 086,Chùa Bửu Đà,Quận 10,1,61.25,10.78124,106.675063
+Phase 3 (Lower Priority),QBTH 096,Trường TH Nguyễn Đình Chiểu,Quận Bình Thạnh,1,61.25,10.803546,106.698409
+Phase 3 (Lower Priority),HCC 046,Ngã tư Quán đôi,Huyện Củ Chi,1,61.25,10.947954,106.522923
+Phase 3 (Lower Priority),HNB 053,Cầu Hiệp Phước,Huyện Nhà Bè,1,61.25,10.634638,106.735364
+Phase 3 (Lower Priority),QTP 046,Trạm Nguyễn Văn Tố,Quận Tân Phú,1,61.25,10.787796,106.632668
+Phase 3 (Lower Priority),HCC 053,Bệnh viện Xuyên Á,Huyện Củ Chi,1,61.25,10.926381,106.557201
+Phase 3 (Lower Priority),Q1 099,Đài truyền hình,Quận 1,1,61.25,10.787157,106.702011
+Phase 3 (Lower Priority),QTB 072,Chợ Võ Thành Trang,Quận Tân Bình,1,61.25,10.801365,106.637823
+Phase 3 (Lower Priority),HBC 231,Ấp 2,Huyện Bình Chánh,1,61.25,10.649242,106.626177
+Phase 3 (Lower Priority),QBT 274,Đường số 1,Quận Bình Tân,1,61.25,10.724396,106.597107
+Phase 3 (Lower Priority),QTD 038,Nhà hàng Song Sinh,TP. Thủ Đức - KV3,1,61.25,10.884615,106.728734
+Phase 3 (Lower Priority),Q7 098,Cầu Thầy Tiêu,Quận 7,1,61.25,10.728375,106.714829
+Phase 3 (Lower Priority),Q12 172,Hiệp Thành 31,Quận 12,1,61.25,10.876739,106.643965
+Phase 3 (Lower Priority),Q5 026,Đại học Y Dược,Quận 5,1,61.25,10.75536,106.663191
+Phase 3 (Lower Priority),Q9 165,Ngã ba Tam Đa,TP. Thủ Đức - KV2,1,61.25,10.807619,106.826604
+Phase 3 (Lower Priority),HBC 203,Đường liên Ấp 1-2,Huyện Bình Chánh,1,61.25,10.663001,106.651658
+Phase 3 (Lower Priority),HBC 290,Hoàng My,Huyện Bình Chánh,1,61.25,10.782816,106.527101
+Phase 3 (Lower Priority),QTB 109,Trần Quốc Hoàn,Quận Tân Bình,1,61.25,10.803644,106.663925
+Phase 3 (Lower Priority),HNB 014,Chùa Bà Châu Đốc 2,Huyện Nhà Bè,1,61.25,10.674752,106.76268
+Phase 3 (Lower Priority),HBC 272,Bờ Kinh,Huyện Bình Chánh,1,61.25,10.660903,106.576663
+Phase 3 (Lower Priority),Q9 251,Chùa Kim Linh,TP. Thủ Đức - KV2,1,61.25,10.834607,106.781557
+Phase 3 (Lower Priority),QGV 019,Bãi hậu cần số 1,Quận Gò Vấp,1,61.25,10.823537,106.692106
+Phase 3 (Lower Priority),HHM 034,Ngã 3 Hồng Châu,Huyện Hóc Môn,1,61.25,10.899733,106.576191
+Phase 3 (Lower Priority),QBT 074,Vĩ Phong,Quận Bình Tân,1,61.25,10.821082,106.60202
+Phase 3 (Lower Priority),HBC 007,Quốc lộ 50,Huyện Bình Chánh,1,61.25,10.720896,106.656861
+Phase 3 (Lower Priority),QGV 112,Cầu An Lộc,Quận Gò Vấp,1,61.25,10.848838,106.678539
+Phase 3 (Lower Priority),QTP 057,Lê Đình Thám,Quận Tân Phú,1,61.25,10.796659,106.623749
+Phase 3 (Lower Priority),HNB 049,Bệnh viện Nhân Tâm,Huyện Nhà Bè,1,61.25,10.653391,106.729415
+Phase 3 (Lower Priority),Q9 152,Công ty Thành Công,TP. Thủ Đức - KV2,1,61.25,10.790662,106.784459
+Phase 3 (Lower Priority),HBC 319,Kênh 2,Huyện Bình Chánh,1,61.25,10.75614,106.485704
+Phase 3 (Lower Priority),HBC 067,Phòng khám Đa khoa Lê Minh Xuân,Huyện Bình Chánh,1,61.25,10.736776,106.554052
+Phase 3 (Lower Priority),Q12 151,Trường Phan Bội Châu,Quận 12,1,61.25,10.838375,106.629535
+Phase 3 (Lower Priority),Q4 039,Tôn Đản,Quận 4,1,61.25,10.7551,106.705711
+Phase 3 (Lower Priority),HNB 062,Chùa Phước Linh,Huyện Nhà Bè,1,61.25,10.609535,106.739983
+Phase 3 (Lower Priority),HCC 005,Nhà thờ Bắc Đoàn,Huyện Củ Chi,1,61.25,10.937979,106.543425
+Phase 3 (Lower Priority),Q7 018,Hoàng Quốc Việt,Quận 7,1,61.25,10.714782,106.736813
+Phase 3 (Lower Priority),HBC 132,Cổng 3,Huyện Bình Chánh,1,61.25,10.759123,106.54567
+Phase 3 (Lower Priority),HHM 026,Ngã 3 Bùi Môn,Huyện Hóc Môn,1,61.25,10.870075,106.597075
+Phase 3 (Lower Priority),QGV 161,City Mart,Quận Gò Vấp,1,61.25,10.835888,106.66104
+Phase 3 (Lower Priority),Q9 204,Long Thuận-Nguyễn Xiển,TP. Thủ Đức - KV2,1,61.25,10.815107,106.833732
+Phase 3 (Lower Priority),HCC 017,Cầu vượt Củ Chi,Huyện Củ Chi,1,61.25,10.96765,106.488319
+Phase 3 (Lower Priority),QBTH 025,Chợ Bình Quới,Quận Bình Thạnh,1,61.25,10.826511,106.735913
+Phase 3 (Lower Priority),Q12 059,Cầu vượt Quang Trung,Quận 12,1,61.25,10.849823,106.632185
+Phase 3 (Lower Priority),QTP 086,Trường Tiểu Học Tân Quý,Quận Tân Phú,1,61.25,10.79844,106.61688
+Phase 3 (Lower Priority),QTD 135,UBND phường Linh Trung,TP. Thủ Đức - KV3,1,61.25,10.864264,106.761199
+Phase 3 (Lower Priority),QBT 165,Da sà cũ,Quận Bình Tân,1,61.25,10.757267,106.618967
+Phase 3 (Lower Priority),Q6 066,Bệnh viện Quận 6,Quận 6,1,61.25,10.747096,106.635157
+Phase 3 (Lower Priority),Q9 067,Ngã 3 Long Trường,TP. Thủ Đức - KV2,1,61.25,10.806007,106.816962
+Phase 3 (Lower Priority),HBC 070,Gia Hưng,Huyện Bình Chánh,1,61.25,10.741984,106.543458
+Phase 3 (Lower Priority),HBC 368,Văn phòng Ấp 5,Huyện Bình Chánh,1,61.25,10.681494,106.588969
+Phase 3 (Lower Priority),Q7 078,Ngã 3 Tân Quy,Quận 7,1,61.25,10.744229,106.701708
+Phase 3 (Lower Priority),Q9 247,Trường cao đẳng Công Thương,TP. Thủ Đức - KV2,1,61.25,10.830419,106.774632
+Phase 3 (Lower Priority),HBC 047,Thiên Thành ,Huyện Bình Chánh,1,61.25,10.733203,106.565108
+Phase 3 (Lower Priority),Q7 010,Phú Thuận,Quận 7,1,61.25,10.731337,106.731652
+Phase 3 (Lower Priority),Q2 113,Đường Đồng Văn Cống,TP. Thủ Đức - KV1,1,61.25,10.789642,106.751516
+Phase 3 (Lower Priority),Q9 117,Lò Lu,TP. Thủ Đức - KV2,1,61.25,10.825013,106.828857
+Phase 3 (Lower Priority),HBC 288,Kênh A,Huyện Bình Chánh,1,61.25,10.780034,106.533437
+Phase 3 (Lower Priority),Q12 080,Trạm điện Hóc Môn,Quận 12,1,61.25,10.857668,106.640918
+Phase 3 (Lower Priority),HBC 217,Văn phòng Ấp 3,Huyện Bình Chánh,1,61.25,10.71552,106.655686
+Phase 3 (Lower Priority),QTD 034,Khu Công nghiệp Đồng an,TP. Thủ Đức - KV3,1,61.25,10.893744,106.721674
+Phase 3 (Lower Priority),HBC 396,Trung tâm văn hóa huyện Bình Chánh,Huyện Bình Chánh,1,61.25,10.695801,106.590192
+Phase 3 (Lower Priority),QTD 157,Ngã tư Bình Triệu,TP. Thủ Đức - KV3,1,61.25,10.826557,106.715848
+Phase 3 (Lower Priority),HNB 047,Hàng Tre,Huyện Nhà Bè,1,61.25,10.663465,106.726213
+Phase 3 (Lower Priority),QBTH 118,Chợ Phan Văn Trị,Quận Bình Thạnh,1,61.25,10.812493,106.695335
+Phase 3 (Lower Priority),HNB 103,Hoàng Anh Gia Lai 3,Huyện Nhà Bè,1,61.25,10.719842,106.701981
+Phase 3 (Lower Priority),QTP 042,Trạm Phạm Văn Xảo,Quận Tân Phú,1,61.25,10.788317,106.623725
+Phase 3 (Lower Priority),QTP 207,Ủy Ban nhân dân quận Tân Phú,Quận Tân Phú,1,61.25,10.78505,106.636605
+Phase 3 (Lower Priority),HNB 058,Công an xã Hiệp Phước,Huyện Nhà Bè,1,61.25,10.617645,106.739157
+Phase 3 (Lower Priority),HBC 406,Phước Hưng,Huyện Bình Chánh,1,61.25,10.688284,106.562973
+Phase 3 (Lower Priority),HBC 002,Cầu Ông Bé,Huyện Bình Chánh,1,61.25,10.728575,106.683946
+Phase 3 (Lower Priority),Q4 008,Chùa Anh Linh,Quận 4,1,61.25,10.76308,106.703183
+Phase 3 (Lower Priority),HBC 016,Cầu Cần Giuộc,Huyện Bình Chánh,1,61.25,10.696855,106.61828
+Phase 3 (Lower Priority),QBTH 066,Trường khiếm thính Hy vọng,Quận Bình Thạnh,1,61.25,10.794836,106.709776
+Phase 3 (Lower Priority),Q2 069,Bệnh viện Quận 2,TP. Thủ Đức - KV1,1,61.25,10.78201,106.76953
+Phase 3 (Lower Priority),QBT 092,Công an Quận Bình Tân,Quận Bình Tân,1,61.25,10.736204,106.602081
+Phase 3 (Lower Priority),Q5 006,Bệnh viện Nguyễn Tri Phương,Quận 5,1,61.25,10.756714,106.670492
+Phase 3 (Lower Priority),Q2 005,Cầu Ông Tranh,TP. Thủ Đức - KV1,1,61.25,10.790099,106.741667
+Phase 3 (Lower Priority),HBC 262,Trạm Xăng Hòa Hiệp,Huyện Bình Chánh,1,61.25,10.641819,106.639711
+Phase 3 (Lower Priority),Q9 274,Trạm Y tế phường Tân Phú,TP. Thủ Đức - KV2,1,61.25,10.860397,106.799408
+Phase 3 (Lower Priority),Q9 158,Cầu Huyện Thanh,TP. Thủ Đức - KV2,1,61.25,10.792222,106.804233
+Phase 3 (Lower Priority),HNB 008,Đào Tông Nguyên,Huyện Nhà Bè,1,61.25,10.682021,106.746764
+Phase 3 (Lower Priority),QBT 211,Bình Long,Quận Bình Tân,1,61.25,10.779433,106.620405
+Phase 3 (Lower Priority),QGV 028,Trường Đại học Hồng Bàng,Quận Gò Vấp,1,61.25,10.844581,106.664661
+Phase 3 (Lower Priority),Q12 127,Trung tâm Văn hóa Quận 12,Quận 12,1,61.25,10.85466,106.607863
+Phase 3 (Lower Priority),QTP 069,Trạm Đường CN 13,Quận Tân Phú,1,61.25,10.809837,106.613106
+Phase 3 (Lower Priority),HBC 207,Đình Chánh An Phú,Huyện Bình Chánh,1,61.25,10.677899,106.650681
+Phase 3 (Lower Priority),HHM 030,Ngã tư Hóc Môn,Huyện Hóc Môn,1,61.25,10.884615,106.586732
+Phase 3 (Lower Priority),HBC 358,Hưng Nhơn,Huyện Bình Chánh,1,61.25,10.717812,106.581582
+Phase 3 (Lower Priority),Q3 052,Chùa Vĩnh Nghiêm,Quận 3,1,61.25,10.790381,106.683022
+Phase 3 (Lower Priority),Q10 096,Công viên Lê Thị Riêng,Quận 10,1,61.25,10.785224,106.666237
+Phase 3 (Lower Priority),HBC 326,Bãi tập xe Trường Cao đẳng Giao thông vận tải 3,Huyện Bình Chánh,1,61.25,10.782695,106.511899
+Phase 3 (Lower Priority),QGV 183,Công ty 32,Quận Gò Vấp,1,61.25,10.827468,106.676688
+Phase 3 (Lower Priority),HBC 241,Minh Quân,Huyện Bình Chánh,1,61.25,10.66016,106.595128
+Phase 3 (Lower Priority),QBT 059,Hương lộ 2,Quận Bình Tân,1,61.25,10.772055,106.591965
+Phase 3 (Lower Priority),HBC 011,Chung cư Conic,Huyện Bình Chánh,1,61.25,10.709506,106.64227
+Phase 3 (Lower Priority),Q5 097,Trần Bình Trọng,Quận 5,1,61.25,10.754912,106.680041
+Phase 3 (Lower Priority),HBC 199,Bệnh viện Tâm thần Bình Minh,Huyện Bình Chánh,1,61.25,10.648282,106.656024
+Phase 3 (Lower Priority),QTD 228,Đường Tam Bình,TP. Thủ Đức - KV3,1,61.25,10.844887,106.728932
+Phase 3 (Lower Priority),TPTĐ 232,Chung cư Flora Anh Đào,TP. Thủ Đức - KV2,1,61.25,10.806171,106.778387
+Phase 3 (Lower Priority),HHM 036,Cây xăng Hoàng Anh 2,Huyện Hóc Môn,1,61.25,10.905691,106.572071
+Phase 3 (Lower Priority),HBC 33,Khu đô thị Hạnh Phúc,Huyện Bình Chánh,1,61.25,10.714903,106.649158

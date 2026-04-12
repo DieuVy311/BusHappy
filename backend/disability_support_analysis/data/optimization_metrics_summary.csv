@@ -1,0 +1,19 @@
+Metric,Value
+Total Bus Stops,2136
+Current Supported Stops,210
+Recommended Total Supported Stops,344
+Stops Needing Upgrade,301
+Stops Saved (vs upgrading all),1625
+Cost Reduction (%),84.4
+Current Avg Distance to Support (m),1592
+Optimized Avg Distance to Support (m),255
+Distance Improvement (m),1337
+Distance Improvement (%),84.0
+Current Coverage within 500m (%),28.9
+Optimized Coverage within 500m (%),88.7
+Coverage Improvement (%),59.8
+Target Walking Distance (m),500
+Target Coverage Achieved (%),95.4
+High Priority Stops (score ≥100),2
+Medium Priority Stops (70-99),22
+Lower Priority Stops (<70),277
