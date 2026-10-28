@@ -36,7 +36,9 @@ export class MapService {
 
         L.tileLayer(CONFIG.MAP.TILE_URL, {
             attribution: CONFIG.MAP.ATTRIBUTION,
-            maxZoom: CONFIG.MAP.MAX_ZOOM
+            maxZoom: CONFIG.MAP.MAX_ZOOM,
+            // optional
+            detectRetina: true
         }).addTo(this.map);
     }
 
